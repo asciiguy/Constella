@@ -27,7 +27,7 @@ struct CheckpointData {
 };
 
 const std::initializer_list<CheckpointData> CHECKPOINTS = {
-    { 1000, "aabaf400994cdefbd1f35557369d7de4304593e018bfdb77b42531a8d82321eb"}, // 1K
+    //{ 1000, "aabaf400994cdefbd1f35557369d7de4304593e018bfdb77b42531a8d82321eb"}, // 1K
     { 15502, "6c2f1b32d04b5d14bdb238f74e44336e48ca16bfb212977d029e217fa4a9cab3"}, // Constella UPDATE
     { 17938, "56b49102f696c2384be9045812c3844b81e6ebb09afd14fb5f3d21b891ec2bc1"},
     { 17939, "ed94c09d780e2001deec7f4adc5622fe18e66781ab3b0a8ca74442619aa7b76a"},
